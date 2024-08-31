@@ -1,10 +1,10 @@
-# V1
+# Pi60-RGB-V2-Ryn-VIA-Layout V1
 
 ## Layer 1
 ![Layer 0](/V1/screenshots/0.png)
 
 ## Layer 2
-![Layer 1](./screenshots/1.png)
+![Layer 1](/V1/screenshots/1.png)
 
 ## Layer 3
-![Layer 2](./screenshots/2.png)
+![Layer 2](/V1/screenshots/2.png)
