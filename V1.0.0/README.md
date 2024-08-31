@@ -1,4 +1,4 @@
-# Pi60-RGB-V2-Ryn-VIA-Layout V1
+# Pi60-RGB-V2-Ryn-VIA-Layout V1.0.0
 My custom layout of the VIA firmware for the 1UpKeyboards pi60 RGB V2.
 
 ## Layer 1
