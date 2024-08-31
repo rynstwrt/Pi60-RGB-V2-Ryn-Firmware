@@ -1,4 +1,5 @@
 # Pi60-RGB-V2-Ryn-VIA-Layout V1
+My custom firmware for the 1UpKeyboards pi60 RGB V2.
 
 ## Layer 1
 ![Layer 0](/V1/screenshots/0.png)
